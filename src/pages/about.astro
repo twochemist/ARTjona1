@@ -1,0 +1,129 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+import ContactCTA from "../components/ContactCTA.astro";
+import Hero from "../components/Hero.astro";
+---
+
+<BaseLayout title="About | Antonio Arjona" description="About Antonio Arjona">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero title="Antonio Arjona" tagline="Petrohead with a keen interest in classic cars and automotive art">
+				<img
+					width="1553"
+					height="873"
+					src="/assets/CaymanCA.png"
+					alt="Antonio Arjona"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					<p>
+						As a car enthusiast, I have strived to combine
+						my passion for automotive with my paintings. This
+						desire has resulted in these pieces of automotive art. Over the years, cars have become one of my favourite subjects to paint. 
+						Every type of car has its own set of personality traits, which I try to bring out by painting them in portrait style.
+					
+
+					</p>
+					<br>
+					<p>
+						Iaaaaa. Feel free to write me on <a
+							href="https://twitter.com/chemistdev">Twitter.</a
+						>
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Artistic Style</h2>
+				<div class="content">
+					<p>
+						Automotive art with acrylic paintings, style, techniques, mediums, .
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Commisions</h2>
+				<div class="content">
+					<p>
+						It has been my pleasure to create custom pieces for
+						friends around the world, and I would love to support
+						you to create something unique and special for your
+						space. Time for completion will be worked out
+						beforehand, desired size and color of subjects. All works will be
+						shipped unframed. Acrylic paint is used in all of my
+						works.
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Exhibitions</h2>
+				<div class="content">
+					<p>Preparing. Big dreams exhibiting my paintings</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>

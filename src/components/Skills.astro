@@ -1,0 +1,89 @@
+---
+import Icon from "./Icon.astro";
+---
+
+<section class="box skills">
+	<div class="stack gap-2 lg:gap-4">
+		<Icon
+			icon="trophy"
+			color="var(--accent-regular)"
+			size="2.5rem"
+			gradient
+		/>
+		<h2>Iconic Cars Paintings</h2>
+		<p>
+			From modern supercars to legendary classics. Oldtimers and
+			youngtimers, roadcars and racers. My artwork is focused on the most significants motoring era
+		</p>
+	</div>
+
+
+
+	<div class="stack gap-2 lg:gap-4">
+		<Icon
+			icon="heart"
+			color="var(--accent-regular)"
+			size="2.5rem"
+			gradient
+		/>
+		<h2>Every car is handpainted</h2>
+		<p>
+			Painting to capture the essence of the classic cars,
+			always choosing subjects with an historical narrative with a personal touch
+		</p>
+	</div>
+
+	<div class="stack gap-2 lg:gap-4">
+		<Icon
+			icon="terminal-window"
+			color="var(--accent-regular)"
+			size="2.5rem"
+			gradient
+		/>
+		<h2>NFT for digital collectors</h2>
+		<p>
+			Fascinated with art and tech collaboration. Exploring how new technology can be used with my artwork and NFT via creative coding and sofware development
+		</p>
+	</div>
+</section>
+
+<style>
+	.box {
+		border: 1px solid var(--gray-800);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		background-color: var(--gray-999_40);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.skills h2 {
+		font-size: var(--text-lg);
+	}
+
+	.skills p {
+		color: var(--gray-400);
+	}
+
+	@media (min-width: 50em) {
+		.box {
+			border-radius: 1.5rem;
+			padding: 2.5rem;
+		}
+
+		.skills {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 5rem;
+		}
+
+		.skills h2 {
+			font-size: var(--text-2xl);
+		}
+	}
+</style>
