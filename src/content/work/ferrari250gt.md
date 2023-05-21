@@ -10,7 +10,7 @@ tags:
   - Classic
 ---
 
-##  250 GT Berlinetta
+##  250 GT 
 
 #### *Iconic and Revered* 
 
@@ -18,12 +18,12 @@ tags:
 
 ####  Paint Description
 
-The paint aims a realistic painting with a classic and more vintage art style in genuine martini colors on this Ferrari classic.  
+The paint aims a vintage painting with a classic ferrari art style in genuine purple colors.  
     
-  Original painting: "Red Wine"  
+  Original painting: "Purple Purosangue"  
 
-* Acrylic on paper 
-* Size 
+* Acrylic on Hahnemuehle paper 310gr/m²
+* Size 24x32cm 
 * Year 2023 
 
 #### About the 250 GT
