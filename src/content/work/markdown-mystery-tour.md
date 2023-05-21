@@ -4,7 +4,7 @@ publishDate: 2022-09-18 00:00:00
 img: /assets/911b.jpg
 img_alt: 911 black and white
 description: |
-  Here's a representation of the Porsche vintage origin family model tree
+  Porsche family model tree
 tags:
   - Porsche
   - Heritage
@@ -16,92 +16,78 @@ tags:
 #### Models List
 [Official overview](https://www.porsche.com/international/models/) all Porsche Models. 
 
-#### Project Name
+#### Project Tree
 ```javascript
-├── Porsche Classic/
-│   ├── Porsche 356 (1948-1965)/
-│   │   └-─ Porsche 356 Pre-A (1948-1955)
-│   │   └-─ Porsche 356 Pre-A (1948-1955)
-│   │   └-─ Porsche 356 Pre-A (1948-1955)
-│   │   └-─ Porsche 356 Pre-A (1948-1955)
-│   ├── Porsche 911 (1963-present)/
-│   │   └-─ Porsche 911 (1963-1989)
-│   │   │    └-─ Porsche 911 "Classic" (1963-1973)
-│   │   │     └-─ Porsche 911 G-Series (1973-1989)
-│   │   │          └-─ Porsche 911 Carrera RS (1973)
-│   │   │          └-─ Porsche 911 Turbo (1975)
-│   │   ├── Porsche 964 (1989-1994)
-│   │   ├── Porsche 993 (1993-1998)
-│   │   ├── Porsche 996 (1997-2004)
-│   │   ├── Porsche 997 (2004-2012)
-│   │   ├── Porsche 991 (2011-2019)
-│   │   └-─ Porsche 992 (2019-present)
-│   ├── Porsche 914 (1969-1976)
-│   ├── Porsche 924 (1976-1988)
-│   ├── Porsche 928 (1977-1995)
-│   ├── Porsche 944 (1982-1991)
-│   ├── Porsche 944 (1982-1991)
-│   ├── Porsche 918 Spyder (2013-2015)
-│   ├── Porsche Carrera GT (2003-2007)
-
-```
-#### Model Tree
-```typescript
-Porsche 911:
-Porsche 911 Carrera
-Porsche 911 Carrera S
-Porsche 911 Carrera 4
-Porsche 911 Carrera 4S
-Porsche 911 Targa
-Porsche 911 Turbo
-Porsche 911 Turbo S
-Porsche 911 GT3
-Porsche 911 GT2 RS
-
-Porsche 718:
-Porsche 718 Cayman
-Porsche 718 Boxster
-Porsche 718 Cayman S
-Porsche 718 Boxster S
-Porsche 718 GTS
-Porsche 718 Cayman GT4
-Porsche 718 Spyder
-
-Porsche Panamera:
-Porsche Panamera
-Porsche Panamera 4
-Porsche Panamera 4S
-Porsche Panamera GTS
-Porsche Panamera Turbo
-Porsche Panamera Turbo S
-
-Porsche Cayenne:
-Porsche Cayenne
-Porsche Cayenne S
-Porsche Cayenne GTS
-Porsche Cayenne Turbo
-Porsche Cayenne Turbo S
-Porsche Cayenne Coupe
-Porsche Cayenne E-Hybrid
-Porsche Macan:
-
-Porsche Macan
-Porsche Macan S
-Porsche Macan GTS
-Porsche Macan Turbo
-Porsche Macan Turbo S
-
-Porsche Taycan:
-Porsche Taycan
-Porsche Taycan 4S
-Porsche Taycan Turbo
-Porsche Taycan Turbo S
-Porsche Taycan Cross Turismo
-
+Porsche 356 (1948-1965)
+  Porsche 356/1
+  Porsche 356A
+  Porsche 356B
+  Porsche 356C
+  Porsche 911 (1964-present)
+Porsche 911 (901)
+  Porsche 911 Carrera
+    Porsche 911 Targa
+    Porsche 911S
+    Porsche 911R
+    Porsche 911 RS
+  Porsche 964
+    Porsche 964 Carrera
+    Porsche 964 Turbo
+    Porsche 964 RS
+  Porsche 993
+    Porsche 993 Carrera
+    Porsche 993 Turbo
+    Porsche 993 GT2
+    Porsche 993 RS
+  Porsche 996
+    Porsche 996 Carrera
+    Porsche 996 Turbo
+    Porsche 996 GT2
+    Porsche 996 GT3
+  Porsche 997
+    Porsche 997 Carrera
+    Porsche 997 Turbo
+    Porsche 997 GT2
+    Porsche 997 GT3
+  Porsche 991
+    Porsche 991 Carrera
+    Porsche 991 Turbo
+    Porsche 991 GT2
+    Porsche 991 GT3
+  Porsche 992
+    Porsche 992 Carrera
+    Porsche 992 Turbo
+    Porsche 992 GT2
+    Porsche 992 GT3
+Porsche 912 (1965-1969)
+Porsche 914 (1969-1976)
+Porsche 924 (1976-1988)
+Porsche 928 (1977-1995)
+Porsche 944 (1982-1991)
+Porsche 959 (1986-1988)
+Porsche 968 (1992-1995)
+Porsche Boxster (1996-present)
+  Porsche 986
+  Porsche 987
+  Porsche 981
+  Porsche 718 (982)
+Porsche Cayenne (2002-present)
+  Porsche Cayenne (955)
+  Porsche Cayenne (957)
+  Porsche Cayenne (958)
+  Porsche Cayenne (9Y0)
+Porsche Carrera GT (2003-2007)
+Porsche Panamera (2009-present)
+  Porsche Panamera (970)
+  Porsche Panamera (971)
+Porsche Macan (2014-present)
+  Porsche Macan (95B)
+  Porsche Taycan (2019-present)
+Porsche Taycan (9J1)
 ```
 
 ## Conclusions
 - ✅ List of Porsche vehicles
 - ✅ Every Porsche model ever made
-- ✅ 95 different variants
+- ✅ More than 95 different variants
 
