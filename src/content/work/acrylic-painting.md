@@ -4,29 +4,29 @@ publishDate: 2022-11-02 00:00:00
 img: /assets/porsche3.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
-  Porsche has a rich history of producing iconic sports cars. These Oldtimer cars often embody the design, engineering, and performance characteristics that have made it renowned in the automotive world.
+  Porsche has a rich history of producing iconic sports cars. 
 tags:
   - Artwork
   - Porsche
 ---
 
-##  Porsche Grandprix
+### Grandprix
 
-#### *Porsche Classic Art*
+#### *Museum*
 
 > *Porsche* has become highly sought-after among collectors and enthusiasts. 
 
 ####  Paint Description 
 
-The paint aims a realistic painting with a vibrant colors and more vintage style. Mixing vivid colors on this Porsche classics is exiting.  
+The paint aims a realistic painting with a vibrant colors and vintage style.  
     
-  Original painting: "Parking Slot"  
+  Original painting: "Ferdi Museum"  
 
-* Acrylic on paper 
-* Size
+* Acrylic on Hahnemuehle paper 310gr/m²
+* Size 24x32cm 
 * Year 2023 
 
-####  Historical Heritage
+####  Historical heritage
 
 Some notable Porsche Oldtimer cars include:
 
@@ -42,7 +42,7 @@ Some notable Porsche Oldtimer cars include:
 
 These are just a few examples of the Porsche Oldtimer cars that have left a lasting impact on automotive history and continue to be cherished by enthusiasts. Each model represents a different era and showcases Porsche's commitment to performance, innovation, and timeless design.
 
-#### Reference 👀
+#### Historic models 👀
 
 | ` Model`               |` Production`                                         |
 | :--------------------- | :----------------------------------------------- |
@@ -52,4 +52,4 @@ These are just a few examples of the Porsche Oldtimer cars that have left a last
 | `Porsche 928`          | ` Produced from 1977 to 1995`      |
 | `Porsche 944      `    | ` Produced from 1982 to 1991` |
 
-<mark>Classic Porsche 911s</mark>
+<mark>Classic Porsche</mark>
