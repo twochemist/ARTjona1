@@ -10,7 +10,7 @@ tags:
   - Motorsport
 ---
 
-##  911 Carrera RS
+###  911 RS
 
 #### *Racing Success* 
 
@@ -22,11 +22,11 @@ The paint aims a realistic painting with a classic and more vintage art style in
     
   Original painting: "Timeless Penn"  
 
-* Acrylic on paper 
-* Size 
+* Acrylic on Hahnemuehle paper 310gr/m²
+* Size 24x32cm 
 * Year 2023 
 
-#### About the 911 Carrera RS
+#### Historic narrative
 
 Here's the historic story behind the 911 Carrera RS:
 
