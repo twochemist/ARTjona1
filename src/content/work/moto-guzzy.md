@@ -2,15 +2,15 @@
 title: Moto Guzzy
 publishDate: 2023-01-01 00:00:00
 img: /assets/motoguzzy.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: Italian Motorbike
 description: |
-  Moto Guzzy Le mans II Cafe Racer
+  Cafe Racer
 tags:
   - Bikes
   - Vintage
 ---
 
-##  Le Mans Cafe
+###  Le Mans II
 
 #### *Powerful Engine* 
 
@@ -22,11 +22,11 @@ The paint aims a realistic painting with a classic and more vintage art style in
     
   Original painting: "Wild Rehwald"  
 
-* Acrylic on paper 
-* Size 
+* Acrylic on Guardi Artistico paper 360gr/m²
+* Size 30x40cm 
 * Year 2023 
 
-#### About the Moto Guzzy
+#### Historic narrative
 
 The Moto Guzzi Le Mans II Cafe Racer holds a special place in motorcycle history, renowned for its unique combination of Italian style and sporting performance. Let's dive into the historic story behind this iconic bike.
 
