@@ -1,15 +1,16 @@
 ---
-title: NFT
+title: NFT Collection
 publishDate: 2020-03-04 00:00:00
 img: /assets/SWD.PNG
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img_alt: NFT Art
 description: |
-  Learn about digital art and my NFT
+  My first collection will be released soon.
 tags:
   - NFT
+  - Digital Art
 ---
 
-# My first NFT collection will be released soon.
+### Digital Art
 
 NFT stands for Non-Fungible Token, and it refers to a type of digital asset that represents ownership or proof of authenticity of a unique item or piece of content, such as artwork.
 
