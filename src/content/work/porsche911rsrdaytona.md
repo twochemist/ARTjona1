@@ -14,7 +14,7 @@ tags:
 
 #### *1973 Porsche 911 Carrera RSR* 
 
-> The 1973 Porsche 911 Carrera RSR was produced by Porsche for racing purposes, based on the 911 Carrera RS road car but featured significant modifications to enhance its performance on the track.
+> It was produced by Porsche for racing purposes, but featured significant modifications to enhance its performance on the track.
 
 ####  Paint Description
 
@@ -46,4 +46,4 @@ The Porsche 911 RSR was a highly competitive race car built by Porsche for endur
 
 The 1973 Porsche 911 RSR remains an iconic representation of Porsche's racing heritage and is celebrated for its performance, distinct styling, and motorsport accomplishments.
 
-<mark>1973 Porsche 911 RSR</mark>
+<mark>1973 Porsche Carrera 911 RSR</mark>
