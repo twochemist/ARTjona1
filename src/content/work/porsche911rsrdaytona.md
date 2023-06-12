@@ -4,7 +4,7 @@ publishDate: 2023-06-12 00:00:00
 img: /assets/daytona911rsr.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  911 RSR Dytona
+  911 RSR Daytona
 tags:
   - Porsche
   - 24h
@@ -12,9 +12,9 @@ tags:
 
 ##  Brumos Racing
 
-#### *1973 Porsche 911 Carrera RSR* 
+#### *1973* 
 
-> It was produced by Porsche for racing purposes, but featured significant modifications to enhance its performance on the track.
+> It was produced by for racing purposes, but featured significant modifications to enhance its performance on the track
 
 ####  Paint Description
 
@@ -29,8 +29,6 @@ The paint aims a realistic painting with a classic and more vintage art style in
 #### About the car
 
 Brumos Racing's iconic race at the Daytona International Speedway in 1973 featured a Porsche 911 RSR. The team, based in Jacksonville, Florida, was known for its success in sports car racing during that era.
-
-The Porsche 911 RSR was a highly competitive race car built by Porsche for endurance racing. It featured a 2.8-liter flat-six engine producing around 280 horsepower and had a lightweight body designed for aerodynamic efficiency. The car's distinctive wide fenders and aggressive appearance made it a fan favorite.
 
 The Porsche 911 RSR was a highly competitive race car built by Porsche for endurance racing. It featured a 2.8-liter flat-six engine producing around 280 horsepower and had a lightweight body designed for aerodynamic efficiency. The car's distinctive wide fenders and aggressive appearance made it a fan favorite.
 
