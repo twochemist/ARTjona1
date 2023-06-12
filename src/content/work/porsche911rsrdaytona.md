@@ -1,5 +1,5 @@
 ---
-title: Daytona 911RSR
+title: Daytona
 publishDate: 2023-06-12 00:00:00
 img: /assets/daytona911rsr.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
