@@ -1,20 +1,18 @@
 ---
-title: Daytona
+title: Brumos
 publishDate: 2023-06-12 00:00:00
 img: /assets/daytona911rsr.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: A Porsche Carrera 911 RSR from Brumos Racing 
 description: |
-  911 RSR Daytona
+  911 RSR 
 tags:
   - Porsche
   - 24h
 ---
 
-##  Brumos Racing
+#### *Brumos Racing 1973* 
 
-#### *1973* 
-
-> It was produced by for racing purposes, but featured significant modifications to enhance its performance on the track
+> It was produced for racing purposes, but featured significant modifications to enhance its performance on the track
 
 ####  Paint Description
 
