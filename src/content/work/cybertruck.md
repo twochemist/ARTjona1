@@ -1,7 +1,7 @@
 ---
 title: Cybertruck
 publishDate: 2023-07-12 00:00:00
-img: /assets/cybertruck.jpg
+img: /assets/cybertruck1.jpg
 img_alt: Cybertruck acrylic painting 
 description: |
   Cybertruck
@@ -14,7 +14,7 @@ tags:
 
 #### *Cybertruck* 
 
-> Cybertruck, a vehicle philosophy that has pushed boundaries, ignited discussions, and challenged conventional notions.
+> A vehicle philosophy that has pushed boundaries, ignited discussions, and challenged conventional notions.
 
 ####  Paint Description
 
