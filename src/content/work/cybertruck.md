@@ -1,10 +1,10 @@
 ---
-title: Cybertruck
+title: Cyber
 publishDate: 2023-07-12 00:00:00
 img: /assets/cybertruck1.jpg
 img_alt: Cybertruck acrylic painting 
 description: |
-  Cybertruck
+  Cyber
 tags:
   - Tesla
   - Electric
