@@ -98,22 +98,7 @@ const projects = (await getCollection("work"))
 						emotion. A classic car is an elegant piece of transportation art. Each paint also represents a trip back in time, allowing you to experience a bygone era.</p>
 				</header>
 
-				<div class="gallery">
-					<Grid variant="small">
-						{
-							[
-								"Historic",
-								"Oldtimer",
-								"Youngtimer",
-								"Classic-Bikes",
-							].map((brand) => (
-								<li class="mention-card">
-									<p>{brand}</p>
-								</li>
-							))
-						}
-					</Grid>
-				</div>
+
 			</section>
 
 			<header class="hero">
@@ -183,6 +168,39 @@ const projects = (await getCollection("work"))
 									  </p>
 									</div>
 								  </div>
+
+								  <!-- Option -->
+								  <div class="accordion-option">
+									<input
+									  type="checkbox"
+									  id="toggle2"
+									  class="accordion-toggle"
+									/>
+									<label class="accordion-title" for="toggle2">
+									  WHICH SIZE ARE AVAILABLE FOR YOUR PAINTS?
+									</label>
+									<div class="accordion-content">
+									  <p>
+										Chose the size and orientation that will fit perfectly to your needs.
+									  </p>
+									</div>
+								  </div>
+
+				<div class="gallery">
+					<Grid variant="small">
+						{
+							[
+								"24 x 32 cm",
+								"30 x 40 cm",
+								"36 x 48cm",
+							].map((brand) => (
+								<li class="mention-card">
+									<p>{brand}</p>
+								</li>
+							))
+						}
+					</Grid>
+				</div>
 								  
 				
 			</header>
