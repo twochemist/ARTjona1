@@ -97,7 +97,21 @@ const projects = (await getCollection("work"))
 					<p>Automotive is not just about craftsmanship, engineering and components, it is also about
 						emotion. A classic car is an elegant piece of transportation art. Each paint also represents a trip back in time, allowing you to experience a bygone era.</p>
 				</header>
-
+				<div class="gallery">
+					<Grid variant="small">
+						{
+							[
+								"24 x 32 cm",
+								"30 x 40 cm",
+								"36 x 48cm",
+							].map((brand) => (
+								<li class="mention-card">
+									<p>{brand}</p>
+								</li>
+							))
+						}
+					</Grid>
+				</div>
 
 			</section>
 
@@ -185,22 +199,6 @@ const projects = (await getCollection("work"))
 									  </p>
 									</div>
 								  </div>
-
-				<div class="gallery">
-					<Grid variant="small">
-						{
-							[
-								"24 x 32 cm",
-								"30 x 40 cm",
-								"36 x 48cm",
-							].map((brand) => (
-								<li class="mention-card">
-									<p>{brand}</p>
-								</li>
-							))
-						}
-					</Grid>
-				</div>
 								  
 				
 			</header>
