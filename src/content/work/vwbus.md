@@ -1,16 +1,16 @@
 ---
-title: VW T1
+title: T1
 publishDate: 2023-09-12 00:00:00
 img: /assets/vwbus.jpg
 img_alt: VW Bus acrylic painting 
 description: |
-  VW Bus
+  VW Bus acrylic painting 
 tags:
-  - VW T1
+  - Bus
   - Camper
 ---
 
-##  The VW T1 Bus
+##  VW T1 Bus
 
 ##### *1963 T1 Samba* 
 
@@ -20,7 +20,7 @@ tags:
 
 The paint aims a realistic painting with a traditional vintage art style in orange and green colors.  
     
-  Original painting: "Busacryl"  
+  Original painting: "Green Hippie Bus"  
 
 * Acrylic on paper 
 * Size 
@@ -30,7 +30,7 @@ The paint aims a realistic painting with a traditional vintage art style in oran
 
 Are you a fan of classic cars and vintage vehicles? If so, you're likely familiar with the iconic Volkswagen Type 2, affectionately known as the VW T1 Bus or Microbus. This legendary automobile, produced from 1950 to 1967, has earned its place in automotive history as one of the most beloved oldtimers ever created. In this blog post, we'll take a technical journey through time to explore the VW T1 Bus Oldtimer and its unique features.
 
-#### The Birth of the VW T1 Bus
+#### Birth of the T1
 The VW T1 Bus, commonly referred to as the "Bulli" in Germany, was the brainchild of Dutch Volkswagen importer Ben Pon. He sketched the initial design in 1947, envisioning a compact, rear-engine van with a versatile layout. By 1950, the first VW T1 Bus rolled off the assembly line, and a legend was born.
 
 #### Air-Cooled Engine
