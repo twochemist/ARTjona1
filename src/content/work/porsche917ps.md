@@ -15,12 +15,12 @@ tags:
 
 ##### *Today, we take a deep dive into the David Piper Porsche 917* 
 
-> An Acrylic Tribute to the David Piper Porsche 917K Green
+> An Acrylic Tribute to the David Piper Porsche 917 05-LT Green
 ####  Paint Description
 
 This painting is of the legendary Gulf Porsche 917 from David Piper.
     
-  Original painting: "David Piper - PS Automobile"  
+  Original paint: "David Piper-PS Automobile"  
 
 * Acrylic on cotton paper. Frame not included
 * Size available 36x48cm
@@ -53,15 +53,15 @@ Creating an acrylic painting of the David Piper Porsche 917K involves more than 
 
 #### Artistic Expression and Emotion
 
-An acrylic painting of the David Piper Porsche 917K is not just a representation; it’s an expression of the emotions tied to this legendary vehicle. The boldness of the green color evokes excitement and energy, mirroring the adrenaline of racing. The meticulous details speak to the car’s storied past and the craftsmanship that went into its creation. Through the layers of paint, an artist can convey not just the look but the feel of this racing icon.
+An acrylic painting of the David Piper Porsche 917 05-LT is not just a representation; it’s an expression of the emotions tied to this legendary vehicle. The boldness of the green color evokes excitement and energy, mirroring the adrenaline of racing. The meticulous details speak to the car’s storied past and the craftsmanship that went into its creation. Through the layers of paint, an artist can convey not just the look but the feel of this racing icon.
 
 #### A Tribute to Innovation
 
-The Porsche 917K, particularly in its David Piper green livery, is a testament to automotive innovation and racing prowess. Translating this into an acrylic painting pays homage to these qualities, celebrating the blend of engineering and artistry. The painting becomes a bridge between the mechanical marvel of the car and the creative process of the artist, each stroke honoring the legacy of the 917K.
+The Porsche 917 05-LT, particularly in its David Piper green livery, is a testament to automotive innovation and racing prowess. Translating this into an acrylic painting pays homage to these qualities, celebrating the blend of engineering and artistry. The painting becomes a bridge between the mechanical marvel of the car and the creative process of the artist, each stroke honoring the legacy of the 917 05-LT.
 
 #### Conclusion
 
-An acrylic painting of the David Piper Porsche 917K green is more than an artwork; it’s a tribute to a piece of racing history. Through vibrant colors, dynamic composition, and meticulous details, such a painting captures the spirit of speed, innovation, and the enduring allure of an automotive legend. For car enthusiasts and art lovers alike, this fusion of machine and artistry offers a timeless piece that celebrates the best of both worlds.
+An acrylic painting of the David Piper Porsche 917 05-LT green is more than an artwork; it’s a tribute to a piece of racing history. Through vibrant colors, dynamic composition, and meticulous details, such a painting captures the spirit of speed, innovation, and the enduring allure of an automotive legend. For car enthusiasts and art lovers alike, this fusion of machine and artistry offers a timeless piece that celebrates the best of both worlds.
 
 <mark>PORSCHE 917 05-LT David Piper</mark>
 
