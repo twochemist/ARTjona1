@@ -4,13 +4,13 @@ publishDate: 2024-07-15 00:00:00
 img: /assets/porsche33.jpg
 img_alt: Porsche 917
 description: |
-  Porsche 917 Ex-David Piper bought by PS Automobile Lippstadt, Germany.
+  PS Automobile Lippstadt
 tags:
   - Porsche
   - Le Mans
 ---
 
-##  PS Automobile
+#####  PS Automobile
 
 
 ##### *Today, we take a deep dive into the David Piper Porsche 917* 
