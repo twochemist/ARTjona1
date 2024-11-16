@@ -4,7 +4,7 @@ publishDate: 2024-11-15 00:00:00
 img: /assets/goldgreen911.jpg
 img_alt: Porsche 91
 description: |
-  Acrylic Painting of Classic Porsche 911s
+  Acrylic Painting 911s
 tags:
   - Porsche
 ---
